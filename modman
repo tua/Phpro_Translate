@@ -5,3 +5,4 @@ app/etc/modules/Phpro_Translate.xml app/etc/modules/Phpro_Translate.xml
 app/locale/en_US/Phpro_Translate.csv app/locale/en_US/Phpro_Translate.csv
 app/locale/fr_FR/Phpro_Translate.csv app/locale/fr_FR/Phpro_Translate.csv
 app/locale/nl_NL/Phpro_Translate.csv app/locale/nl_NL/Phpro_Translate.csv
+js/phpro/* js/phpro/
