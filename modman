@@ -1,0 +1,7 @@
+app/code/community/Phpro/Translate/* app/code/community/Phpro/Translate/
+app/design/adminhtml/default/default/layout/* app/design/adminhtml/default/default/layout/
+app/design/adminhtml/default/default/template/translate/* app/design/adminhtml/default/default/template/translate/
+app/etc/modules/Phpro_Translate.xml app/etc/modules/Phpro_Translate.xml
+app/locale/en_US/Phpro_Translate.csv app/locale/en_US/Phpro_Translate.csv
+app/locale/fr_FR/Phpro_Translate.csv app/locale/fr_FR/Phpro_Translate.csv
+app/locale/nl_NL/Phpro_Translate.csv app/locale/nl_NL/Phpro_Translate.csv

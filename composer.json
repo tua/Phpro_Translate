@@ -1,0 +1,16 @@
+{
+    "name": "kirchbergerknorr/protranslate",
+    "description": "ProTranslate",
+    "keywords": ["magento", "phppro", "translate", "management"],
+    "homepage": "https://www.paymill.com/",
+    "type": "magento-module",
+    "license":"OSL-3.0",
+    "authors": [
+        {
+            "name": "Benedikt Volkmer",
+            "email": "bv@kirchbergerknorr.de"
+        }
+    ],
+    "require": {
+    }
+}
