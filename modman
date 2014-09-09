@@ -6,3 +6,4 @@ app/locale/en_US/Phpro_Translate.csv app/locale/en_US/Phpro_Translate.csv
 app/locale/fr_FR/Phpro_Translate.csv app/locale/fr_FR/Phpro_Translate.csv
 app/locale/nl_NL/Phpro_Translate.csv app/locale/nl_NL/Phpro_Translate.csv
 js/phpro/* js/phpro/
+skin/adminhtml/default/default/phpro/* skin/adminhtml/default/default/phpro/
