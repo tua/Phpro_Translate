@@ -1,6 +1,6 @@
 <?php
 
-class Phpro_Translate_TranslationsController extends Mage_Adminhtml_Controller_Action
+class Phpro_Translate_Adminhtml_TranslationsController extends Mage_Adminhtml_Controller_Action
 {
 
     public function indexAction()
