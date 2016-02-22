@@ -1,0 +1,45 @@
+Translate,Translate
+Search & translate,Cerca e traduci
+Unstranslated strings,Stringhe non tradotte
+Translation stats,Statistiche traduzioni
+About PHPro,Informazioni su PHPro
+About,Informazioni
+PHPro Translate module,PHPro Translate module
+Search for:,Cerca per:
+Search string,Cerca stringa
+Enter a string (e.g. "My account") and click "Submit search",Inserisci una stringa (es. "My account") e clicca su "Submit search"
+Search original strings,Cerca stringhe originali
+Only list untranslated,Solo non tradotte
+Locale,Locale
+Options:,Opzioni:
+Case sensitive,Case sensitive
+In Modules:,Nei moduli:
+In Interface:,Nell'interfaccia:
+Frontend,Frontend
+Admin HTML,Admin HTML
+Results:,Risultati:
+Truncate log table,Svuota log table
+Remove duplicates in log table,Rimuovi duplicati nella log table
+Submit Search,Submit Search
+Search results for:,Cerca risultati per:
+Translated string,Stringhe tradotte
+Origin string,Stringa origine
+Source,Sorgente
+Translation Statistics,Statistiche traduzioni
+Translated strings in %s,Stringhe tradotte in %s
+%d strings in modules,%d stringhe nei moduli
+%d strings in theme,%d stringhe nel tema grafico
+%d strings in database,%d stringhe nel database
+%d untranslated strings,%d stringhe non tradotte
+This data is cached. Please flush the Magento cache to refresh this data.,Questi dati sono in cache.Si prega di svuotare la cache di Magento per aggiornare questi dati..
+Attention! 100% translation can mean either a fully translated locale or simply no logged untranslated strings!,Attenzione! Traduzione al 100% può indicare una traduzione locale completa o semplicemente che non è stata loggata nessuna stringa non tradotta
+Original,Originale
+Item information,Informazioni traduzione
+Extra Information:,Informationi Extra:
+Edit Item,Modifica traduzione
+Save Item,Salva traduzione
+No results found.,Nessun risultato trovato.
+Remove all the records from the &quot;untransalated strings&quot; table,Rimuove tutti i dati dalla tabella &quot;untranslated strings&quot;
+Remove duplicate strings that are in the system and &quot;untranslated strings&quot; table, Rimuove le stringhe duplicate che sono nel sistema e nella tabella &quot;untranslated strings&quot;
+Table truncated,Tabella svuotata
+Following duplicates are found and removed:,I seguenti duplicati sono stati trovati e rimossi:
