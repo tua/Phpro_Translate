@@ -118,13 +118,11 @@
     </adminhtml>
     <admin>
         <routers>
-            <translate>
-                <use>admin</use>
+            <adminhtml>
                 <args>
-                    <module>Phpro_Translate</module>
-                    <frontName>translate</frontName>
+                    <Phpro_Translate after="Mage_Adminhtml">Phpro_Translate_Adminhtml</Phpro_Translate>
                 </args>
-            </translate>
+            </adminhtml>
         </routers>
     </admin>
 </config>
