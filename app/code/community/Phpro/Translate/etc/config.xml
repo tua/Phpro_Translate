@@ -69,7 +69,7 @@
                 <children>
                     <phpro_translate module="translate">
                         <title>PHPro Translate</title>
-                        <action>translate/translations</action>
+                        <action>adminhtml/translations</action>
                     </phpro_translate>
                 </children>
             </system>
@@ -120,7 +120,9 @@
         <routers>
             <adminhtml>
                 <args>
-                    <Phpro_Translate after="Mage_Adminhtml">Phpro_Translate_Adminhtml</Phpro_Translate>
+                    <modules>
+                        <translate before="Mage_Adminhtml">Phpro_Translate_Adminhtml</translate>
+                    </modules>
                 </args>
             </adminhtml>
         </routers>
